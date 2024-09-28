@@ -1,5 +1,7 @@
 Maximum sub Array
 
+passes all cases
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
@@ -16,7 +18,8 @@ public:
 };
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
-
+//passed 196/210 cases (suggest if something required to modify this code)
+    
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
